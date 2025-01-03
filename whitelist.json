@@ -1,4 +1,4 @@
 {
-    "pairs": ["JASMY/USDT", "ZIL/USDT", "ADA/USDT"],
+    "pairs": ["ZIL/USDT", "FLOKI/USDT", "JASMY/USDT"],
     "refresh_period": 1800
 }
