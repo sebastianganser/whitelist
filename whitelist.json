@@ -1,4 +1,4 @@
 {
-    "pairs": ["FLOKI/USDT", "ZIL/USDT", "HOT/USDT"],
+    "pairs": ["HOT/USDT", "ZIL/USDT", "AMB/USDT"],
     "refresh_period": 1800
 }
