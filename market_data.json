@@ -1,5 +1,23 @@
 [
     {
+        "timestamp": "2025-01-30 22:45:00+00:00",
+        "pair": "ETHUSDT_UMCBL",
+        "price": 3268.55,
+        "volume": 0.0
+    },
+    {
+        "timestamp": "2025-01-30 22:45:00+00:00",
+        "pair": "BTCUSDT_UMCBL",
+        "price": 105254.6,
+        "volume": 0.032
+    },
+    {
+        "timestamp": "2025-01-30 22:30:00+00:00",
+        "pair": "ETHUSDT_UMCBL",
+        "price": 3247.01,
+        "volume": 0.0
+    },
+    {
         "timestamp": "2025-01-30 22:15:00+00:00",
         "pair": "ETHUSDT_UMCBL",
         "price": 3245.47,
@@ -580,23 +598,5 @@
         "pair": "BTCUSDT_UMCBL",
         "price": 104641.2,
         "volume": 0.0
-    },
-    {
-        "timestamp": "2025-01-30 03:15:00+00:00",
-        "pair": "ETHUSDT_UMCBL",
-        "price": 3171.07,
-        "volume": 3.98
-    },
-    {
-        "timestamp": "2025-01-30 03:15:00+00:00",
-        "pair": "BTCUSDT_UMCBL",
-        "price": 104678.0,
-        "volume": 0.0
-    },
-    {
-        "timestamp": "2025-01-30 03:00:00+00:00",
-        "pair": "ETHUSDT_UMCBL",
-        "price": 3154.61,
-        "volume": 18.7
     }
 ]
